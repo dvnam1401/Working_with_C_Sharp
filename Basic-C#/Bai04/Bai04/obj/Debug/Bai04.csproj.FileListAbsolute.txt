@@ -1,0 +1,7 @@
+D:\Workspace\Language_C#\Basic-C#\Bai04\Bai04\bin\Debug\Bai04.exe.config
+D:\Workspace\Language_C#\Basic-C#\Bai04\Bai04\bin\Debug\Bai04.exe
+D:\Workspace\Language_C#\Basic-C#\Bai04\Bai04\bin\Debug\Bai04.pdb
+D:\Workspace\Language_C#\Basic-C#\Bai04\Bai04\obj\Debug\Bai04.csproj.AssemblyReference.cache
+D:\Workspace\Language_C#\Basic-C#\Bai04\Bai04\obj\Debug\Bai04.csproj.CoreCompileInputs.cache
+D:\Workspace\Language_C#\Basic-C#\Bai04\Bai04\obj\Debug\Bai04.exe
+D:\Workspace\Language_C#\Basic-C#\Bai04\Bai04\obj\Debug\Bai04.pdb

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "MHE2nODTWmM7JNtaKGZO83Gfey94ple7va5T0igjEAVT/j/INxI/gMUJC97wFImZEntgY5dBSRiqcjgQxwg8LA==",
+  "success": true,
+  "projectFilePath": "D:\\Workspace\\Language_C#\\Basic-C#\\BaiTapOnLuyen\\HelloWorld\\HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VANNAM\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\VANNAM\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\VANNAM\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\VANNAM\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

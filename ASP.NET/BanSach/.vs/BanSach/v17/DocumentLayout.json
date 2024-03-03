@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\Language_C#\\ASP.NET\\BanSach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74F9DE48-BA9F-48A0-BC94-68E04A83B6A1}|BanSachWeb\\BanSachWeb.csproj|d:\\workspace\\language_c#\\asp.net\\bansach\\bansachweb\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74F9DE48-BA9F-48A0-BC94-68E04A83B6A1}|BanSachWeb\\BanSachWeb.csproj|solutionrelative:bansachweb\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F9DE48-BA9F-48A0-BC94-68E04A83B6A1}|BanSachWeb\\BanSachWeb.csproj|d:\\workspace\\language_c#\\asp.net\\bansach\\bansachweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74F9DE48-BA9F-48A0-BC94-68E04A83B6A1}|BanSachWeb\\BanSachWeb.csproj|solutionrelative:bansachweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F9DE48-BA9F-48A0-BC94-68E04A83B6A1}|BanSachWeb\\BanSachWeb.csproj|d:\\workspace\\language_c#\\asp.net\\bansach\\bansachweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F9DE48-BA9F-48A0-BC94-68E04A83B6A1}|BanSachWeb\\BanSachWeb.csproj|solutionrelative:bansachweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F9DE48-BA9F-48A0-BC94-68E04A83B6A1}|BanSachWeb\\BanSachWeb.csproj|d:\\workspace\\language_c#\\asp.net\\bansach\\bansachweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F9DE48-BA9F-48A0-BC94-68E04A83B6A1}|BanSachWeb\\BanSachWeb.csproj|solutionrelative:bansachweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F9DE48-BA9F-48A0-BC94-68E04A83B6A1}|BanSachWeb\\BanSachWeb.csproj|d:\\workspace\\language_c#\\asp.net\\bansach\\bansachweb\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74F9DE48-BA9F-48A0-BC94-68E04A83B6A1}|BanSachWeb\\BanSachWeb.csproj|solutionrelative:bansachweb\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F9DE48-BA9F-48A0-BC94-68E04A83B6A1}|BanSachWeb\\BanSachWeb.csproj|d:\\workspace\\language_c#\\asp.net\\bansach\\bansachweb\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F9DE48-BA9F-48A0-BC94-68E04A83B6A1}|BanSachWeb\\BanSachWeb.csproj|solutionrelative:bansachweb\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 718,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\Language_C#\\ASP.NET\\BanSach\\BanSachWeb\\Program.cs",
+              "RelativeDocumentMoniker": "BanSachWeb\\Program.cs",
+              "ToolTip": "D:\\Workspace\\Language_C#\\ASP.NET\\BanSach\\BanSachWeb\\Program.cs",
+              "RelativeToolTip": "BanSachWeb\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T14:20:57.077Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\Language_C#\\ASP.NET\\BanSach\\BanSachWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "BanSachWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Workspace\\Language_C#\\ASP.NET\\BanSach\\BanSachWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "BanSachWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T03:02:12.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\Language_C#\\ASP.NET\\BanSach\\BanSachWeb\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "BanSachWeb\\Views\\Category\\Create.cshtml",
+              "ToolTip": "D:\\Workspace\\Language_C#\\ASP.NET\\BanSach\\BanSachWeb\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "BanSachWeb\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T02:58:14.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\Language_C#\\ASP.NET\\BanSach\\BanSachWeb\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "BanSachWeb\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\Workspace\\Language_C#\\ASP.NET\\BanSach\\BanSachWeb\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "BanSachWeb\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T02:30:10.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Workspace\\Language_C#\\ASP.NET\\BanSach\\BanSachWeb\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "BanSachWeb\\Models\\Category.cs",
+              "ToolTip": "D:\\Workspace\\Language_C#\\ASP.NET\\BanSach\\BanSachWeb\\Models\\Category.cs",
+              "RelativeToolTip": "BanSachWeb\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T15:06:44.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Workspace\\Language_C#\\ASP.NET\\BanSach\\BanSachWeb\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "BanSachWeb\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Workspace\\Language_C#\\ASP.NET\\BanSach\\BanSachWeb\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "BanSachWeb\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAcwCAAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T13:49:17.698Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 244,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 25,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 83,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

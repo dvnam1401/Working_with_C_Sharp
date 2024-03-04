@@ -1,0 +1,8 @@
+D:\Workspace\Working_with_C_Sharp\Build ASP.NET Core Web API - Scratch To Finish (.NET8 API)\API_WEB_CORE\API_WEB_CORE\obj\Debug\net8.0\API_WEB_CORE.csproj.AssemblyReference.cache
+D:\Workspace\Working_with_C_Sharp\Build ASP.NET Core Web API - Scratch To Finish (.NET8 API)\API_WEB_CORE\API_WEB_CORE\obj\Debug\net8.0\API_WEB_CORE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Working_with_C_Sharp\Build ASP.NET Core Web API - Scratch To Finish (.NET8 API)\API_WEB_CORE\API_WEB_CORE\obj\Debug\net8.0\API_WEB_CORE.AssemblyInfoInputs.cache
+D:\Workspace\Working_with_C_Sharp\Build ASP.NET Core Web API - Scratch To Finish (.NET8 API)\API_WEB_CORE\API_WEB_CORE\obj\Debug\net8.0\API_WEB_CORE.AssemblyInfo.cs
+D:\Workspace\Working_with_C_Sharp\Build ASP.NET Core Web API - Scratch To Finish (.NET8 API)\API_WEB_CORE\API_WEB_CORE\obj\Debug\net8.0\API_WEB_CORE.csproj.CoreCompileInputs.cache
+D:\Workspace\Working_with_C_Sharp\Build ASP.NET Core Web API - Scratch To Finish (.NET8 API)\API_WEB_CORE\API_WEB_CORE\obj\Debug\net8.0\API_WEB_CORE.MvcApplicationPartsAssemblyInfo.cs
+D:\Workspace\Working_with_C_Sharp\Build ASP.NET Core Web API - Scratch To Finish (.NET8 API)\API_WEB_CORE\API_WEB_CORE\obj\Debug\net8.0\API_WEB_CORE.MvcApplicationPartsAssemblyInfo.cache
+D:\Workspace\Working_with_C_Sharp\Build ASP.NET Core Web API - Scratch To Finish (.NET8 API)\API_WEB_CORE\API_WEB_CORE\obj\Debug\net8.0\API_WEB_CORE.sourcelink.json

@@ -2779,11 +2779,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Workspace\\Language_C#\\ASP.NET\\BanSach\\BanSachWeb\\BanSachWeb.csproj",
+      "projectUniqueName": "D:\\Workspace\\Working_with_C_Sharp\\ASP.NET\\BanSach\\BanSachWeb\\BanSachWeb.csproj",
       "projectName": "BanSachWeb",
-      "projectPath": "D:\\Workspace\\Language_C#\\ASP.NET\\BanSach\\BanSachWeb\\BanSachWeb.csproj",
+      "projectPath": "D:\\Workspace\\Working_with_C_Sharp\\ASP.NET\\BanSach\\BanSachWeb\\BanSachWeb.csproj",
       "packagesPath": "C:\\Users\\VANNAM\\.nuget\\packages\\",
-      "outputPath": "D:\\Workspace\\Language_C#\\ASP.NET\\BanSach\\BanSachWeb\\obj\\",
+      "outputPath": "D:\\Workspace\\Working_with_C_Sharp\\ASP.NET\\BanSach\\BanSachWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\VANNAM\\AppData\\Roaming\\NuGet\\NuGet.Config",

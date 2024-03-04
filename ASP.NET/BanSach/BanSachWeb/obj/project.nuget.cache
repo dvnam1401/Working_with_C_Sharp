@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4AmwKzhQ+pX6ZnDsQ2uKk0NKLh4RzQlDnlMhdBe326RAtJuyZjVytsGyNDhS5fI7bY70CYHut6LLDdLbkGwA8A==",
+  "dgSpecHash": "3bHBotv6CRlevz1H5tTzoYWVOUc9A/psg2xeyfZPD36bi0zKt3LdLv/qX96bKGKBn2U7AtchzY2jqWxfcRandg==",
   "success": true,
-  "projectFilePath": "D:\\Workspace\\Language_C#\\ASP.NET\\BanSach\\BanSachWeb\\BanSachWeb.csproj",
+  "projectFilePath": "D:\\Workspace\\Working_with_C_Sharp\\ASP.NET\\BanSach\\BanSachWeb\\BanSachWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\VANNAM\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\VANNAM\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.0\\microsoft.aspnetcore.mvc.razor.extensions.6.0.0.nupkg.sha512",

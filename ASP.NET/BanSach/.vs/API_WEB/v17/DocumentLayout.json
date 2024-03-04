@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\Working_with_C_Sharp\\ASP.NET\\BanSach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9048D586-4E5A-4F5D-82E4-DF9EEB836E18}|API_WEB_CORE\\API_WEB_CORE.csproj|d:\\workspace\\working_with_c_sharp\\asp.net\\bansach\\api_web_core\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9048D586-4E5A-4F5D-82E4-DF9EEB836E18}|API_WEB_CORE\\API_WEB_CORE.csproj|solutionrelative:api_web_core\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9048D586-4E5A-4F5D-82E4-DF9EEB836E18}|API_WEB_CORE\\API_WEB_CORE.csproj|d:\\workspace\\working_with_c_sharp\\asp.net\\bansach\\api_web_core\\models\\dto\\addregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9048D586-4E5A-4F5D-82E4-DF9EEB836E18}|API_WEB_CORE\\API_WEB_CORE.csproj|solutionrelative:api_web_core\\models\\dto\\addregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9048D586-4E5A-4F5D-82E4-DF9EEB836E18}|API_WEB_CORE\\API_WEB_CORE.csproj|d:\\workspace\\working_with_c_sharp\\asp.net\\bansach\\api_web_core\\models\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9048D586-4E5A-4F5D-82E4-DF9EEB836E18}|API_WEB_CORE\\API_WEB_CORE.csproj|solutionrelative:api_web_core\\models\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9048D586-4E5A-4F5D-82E4-DF9EEB836E18}|API_WEB_CORE\\API_WEB_CORE.csproj|d:\\workspace\\working_with_c_sharp\\asp.net\\bansach\\api_web_core\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9048D586-4E5A-4F5D-82E4-DF9EEB836E18}|API_WEB_CORE\\API_WEB_CORE.csproj|solutionrelative:api_web_core\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 713,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddRegionRequestDTO.cs",
+              "DocumentMoniker": "D:\\Workspace\\Working_with_C_Sharp\\ASP.NET\\BanSach\\API_WEB_CORE\\Models\\DTO\\AddRegionRequestDTO.cs",
+              "RelativeDocumentMoniker": "API_WEB_CORE\\Models\\DTO\\AddRegionRequestDTO.cs",
+              "ToolTip": "D:\\Workspace\\Working_with_C_Sharp\\ASP.NET\\BanSach\\API_WEB_CORE\\Models\\DTO\\AddRegionRequestDTO.cs",
+              "RelativeToolTip": "API_WEB_CORE\\Models\\DTO\\AddRegionRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T01:17:05.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Region.cs",
+              "DocumentMoniker": "D:\\Workspace\\Working_with_C_Sharp\\ASP.NET\\BanSach\\API_WEB_CORE\\Models\\Domain\\Region.cs",
+              "RelativeDocumentMoniker": "API_WEB_CORE\\Models\\Domain\\Region.cs",
+              "ToolTip": "D:\\Workspace\\Working_with_C_Sharp\\ASP.NET\\BanSach\\API_WEB_CORE\\Models\\Domain\\Region.cs",
+              "RelativeToolTip": "API_WEB_CORE\\Models\\Domain\\Region.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T01:16:32.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Workspace\\Working_with_C_Sharp\\ASP.NET\\BanSach\\API_WEB_CORE\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "API_WEB_CORE\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Workspace\\Working_with_C_Sharp\\ASP.NET\\BanSach\\API_WEB_CORE\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "API_WEB_CORE\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T09:58:00.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegionsController.cs",
+              "DocumentMoniker": "D:\\Workspace\\Working_with_C_Sharp\\ASP.NET\\BanSach\\API_WEB_CORE\\Controllers\\RegionsController.cs",
+              "RelativeDocumentMoniker": "API_WEB_CORE\\Controllers\\RegionsController.cs",
+              "ToolTip": "D:\\Workspace\\Working_with_C_Sharp\\ASP.NET\\BanSach\\API_WEB_CORE\\Controllers\\RegionsController.cs",
+              "RelativeToolTip": "API_WEB_CORE\\Controllers\\RegionsController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAowF0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T09:30:06.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 249,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 25,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 83,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

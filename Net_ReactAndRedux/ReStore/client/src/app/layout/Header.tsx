@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { ShoppingCart } from "@mui/icons-material";
 import { AppBar, Badge, Box, IconButton, List, ListItem, Switch, Toolbar, Typography } from "@mui/material";
 import { NavLink } from "react-router-dom";
@@ -24,10 +25,14 @@ const navStyles = {
         color: 'text.secondary'
     }
 }
+=======
+import { AppBar, Switch, Toolbar, Typography } from "@mui/material";
+>>>>>>> b07b1051943da71804a33dfb1026f118f49a9150
 interface Props {
     darkMode: boolean;
     handleThemChange: () => void;
 }
+<<<<<<< HEAD
 
 export default function Header({ darkMode, handleThemChange }: Props) {
     return (
@@ -75,6 +80,16 @@ export default function Header({ darkMode, handleThemChange }: Props) {
                         ))}
                     </List>
                 </Box>
+=======
+export default function Header({ darkMode, handleThemChange }: Props) {
+    return (
+        <AppBar position="static" sx={{ mb: 4 }}>
+            <Toolbar>
+                <Typography variant="h6">
+                    RE-STORE
+                </Typography>
+                <Switch checked={darkMode} onChange={handleThemChange} />
+>>>>>>> b07b1051943da71804a33dfb1026f118f49a9150
             </Toolbar>
         </AppBar>
     )

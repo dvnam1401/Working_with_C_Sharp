@@ -34,7 +34,11 @@ export default function ProductCard({ product }: Props) {
             </CardContent>
             <CardActions>
                 <Button size="small">Add to cart</Button>
+<<<<<<< HEAD
                 <Button component={Link} to={`/catalog/${product.id}`} size="small">View</Button>
+=======
+                <Button size="small">View</Button>
+>>>>>>> b07b1051943da71804a33dfb1026f118f49a9150
             </CardActions>
         </Card>
     )

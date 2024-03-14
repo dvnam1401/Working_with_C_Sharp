@@ -14,6 +14,10 @@ export default function Catalog() {
     return (
         <>
             <ProductList products={products}></ProductList>
+<<<<<<< HEAD
+=======
+
+>>>>>>> b07b1051943da71804a33dfb1026f118f49a9150
         </>
     );
 }

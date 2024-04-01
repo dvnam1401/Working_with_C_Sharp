@@ -229,3 +229,5 @@ D:\Workspace\Working_with_C_Sharp\ANGULARandASP.NETCoreREST_API\API\CodePulse.AP
 D:\Workspace\Working_with_C_Sharp\ANGULARandASP.NETCoreREST_API\API\CodePulse.API\obj\Debug\net7.0\CodePulse.API.pdb
 D:\Workspace\Working_with_C_Sharp\ANGULARandASP.NETCoreREST_API\API\CodePulse.API\obj\Debug\net7.0\CodePulse.API.genruntimeconfig.cache
 D:\Workspace\Working_with_C_Sharp\ANGULARandASP.NETCoreREST_API\API\CodePulse.API\obj\Debug\net7.0\ref\CodePulse.API.dll
+D:\Workspace\Working_with_C_Sharp\ANGULARandASP.NETCoreREST_API\API\CodePulse.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Workspace\Working_with_C_Sharp\ANGULARandASP.NETCoreREST_API\API\CodePulse.API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll

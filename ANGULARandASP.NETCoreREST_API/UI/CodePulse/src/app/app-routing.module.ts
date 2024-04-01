@@ -6,18 +6,29 @@ import { EditCategoryComponent } from './features/category/edit-category/edit-ca
 import { BlogpostListComponent } from './features/blog-post/blogpost-list/blogpost-list.component';
 import { AddBlogpostComponent } from './features/blog-post/add-blogpost/add-blogpost.component';
 import { EditBlogpostComponent } from './features/blog-post/edit-blogpost/edit-blogpost.component';
+import { HomeComponent } from './features/public/home/home.component';
+import { BlogDetailComponent } from './features/public/blog-detail/blog-detail.component';
+import { LoginComponent } from './features/auth/login/login.component';
 
 const routes: Routes = [
   {
-    path:'admin/categories',
+    path: '',
+    component: HomeComponent
+  },
+  {
+    path: 'blog/:url',
+    component: BlogDetailComponent
+  },
+  {
+    path: 'admin/categories',
     component: CategoryListComponent
   },
   {
-    path:'admin/categories/add',
+    path: 'admin/categories/add',
     component: AddCategoryComponent
   },
   {
-    path:'admin/categories/:id',
+    path: 'admin/categories/:id',
     component: EditCategoryComponent
   },
   {
@@ -31,6 +42,10 @@ const routes: Routes = [
   {
     path: 'admin/blogposts/:id',
     component: EditBlogpostComponent
+  },
+  {
+    path: 'login',
+    component: LoginComponent
   }
 ];
 

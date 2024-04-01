@@ -13,6 +13,10 @@ import { BlogpostListComponent } from './features/blog-post/blogpost-list/blogpo
 import { AddBlogpostComponent } from './features/blog-post/add-blogpost/add-blogpost.component';
 import { MarkdownModule } from 'ngx-markdown';
 import { EditBlogpostComponent } from './features/blog-post/edit-blogpost/edit-blogpost.component';
+import { ImageSelectorComponent } from './shared/components/image-selector/image-selector.component';
+import { HomeComponent } from './features/public/home/home.component';
+import { BlogDetailComponent } from './features/public/blog-detail/blog-detail.component';
+import { LoginComponent } from './features/auth/login/login.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -22,7 +26,11 @@ import { EditBlogpostComponent } from './features/blog-post/edit-blogpost/edit-b
     EditCategoryComponent,
     BlogpostListComponent,
     AddBlogpostComponent,
-    EditBlogpostComponent
+    EditBlogpostComponent,
+    ImageSelectorComponent,
+    HomeComponent,
+    BlogDetailComponent,
+    LoginComponent
   ],
   imports: [
     BrowserModule,

@@ -1,0 +1,7 @@
+D:\Workspace\Working_with_C_Sharp\Lap_trinh_dotnet\Interface\ThucHanh1\bin\Debug\ThucHanh1.exe.config
+D:\Workspace\Working_with_C_Sharp\Lap_trinh_dotnet\Interface\ThucHanh1\bin\Debug\ThucHanh1.exe
+D:\Workspace\Working_with_C_Sharp\Lap_trinh_dotnet\Interface\ThucHanh1\bin\Debug\ThucHanh1.pdb
+D:\Workspace\Working_with_C_Sharp\Lap_trinh_dotnet\Interface\ThucHanh1\obj\Debug\ThucHanh1.csproj.AssemblyReference.cache
+D:\Workspace\Working_with_C_Sharp\Lap_trinh_dotnet\Interface\ThucHanh1\obj\Debug\ThucHanh1.csproj.CoreCompileInputs.cache
+D:\Workspace\Working_with_C_Sharp\Lap_trinh_dotnet\Interface\ThucHanh1\obj\Debug\ThucHanh1.exe
+D:\Workspace\Working_with_C_Sharp\Lap_trinh_dotnet\Interface\ThucHanh1\obj\Debug\ThucHanh1.pdb

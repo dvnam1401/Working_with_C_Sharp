@@ -1,0 +1,7 @@
+D:\Workspace\Working_with_C_Sharp\Lap_trinh_dotnet\BaiTap\QLXECUAHANG\bin\Debug\QLXECUAHANG.exe.config
+D:\Workspace\Working_with_C_Sharp\Lap_trinh_dotnet\BaiTap\QLXECUAHANG\bin\Debug\QLXECUAHANG.exe
+D:\Workspace\Working_with_C_Sharp\Lap_trinh_dotnet\BaiTap\QLXECUAHANG\bin\Debug\QLXECUAHANG.pdb
+D:\Workspace\Working_with_C_Sharp\Lap_trinh_dotnet\BaiTap\QLXECUAHANG\obj\Debug\QLXECUAHANG.csproj.AssemblyReference.cache
+D:\Workspace\Working_with_C_Sharp\Lap_trinh_dotnet\BaiTap\QLXECUAHANG\obj\Debug\QLXECUAHANG.csproj.CoreCompileInputs.cache
+D:\Workspace\Working_with_C_Sharp\Lap_trinh_dotnet\BaiTap\QLXECUAHANG\obj\Debug\QLXECUAHANG.exe
+D:\Workspace\Working_with_C_Sharp\Lap_trinh_dotnet\BaiTap\QLXECUAHANG\obj\Debug\QLXECUAHANG.pdb

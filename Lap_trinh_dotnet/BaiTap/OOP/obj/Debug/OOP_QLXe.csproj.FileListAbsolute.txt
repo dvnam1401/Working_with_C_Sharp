@@ -1,0 +1,7 @@
+D:\Workspace\Working_with_C_Sharp\Lap_trinh_dotnet\BaiTap\OOP\bin\Debug\OOP.exe.config
+D:\Workspace\Working_with_C_Sharp\Lap_trinh_dotnet\BaiTap\OOP\bin\Debug\OOP.exe
+D:\Workspace\Working_with_C_Sharp\Lap_trinh_dotnet\BaiTap\OOP\bin\Debug\OOP.pdb
+D:\Workspace\Working_with_C_Sharp\Lap_trinh_dotnet\BaiTap\OOP\obj\Debug\OOP_QLXe.csproj.AssemblyReference.cache
+D:\Workspace\Working_with_C_Sharp\Lap_trinh_dotnet\BaiTap\OOP\obj\Debug\OOP_QLXe.csproj.CoreCompileInputs.cache
+D:\Workspace\Working_with_C_Sharp\Lap_trinh_dotnet\BaiTap\OOP\obj\Debug\OOP.exe
+D:\Workspace\Working_with_C_Sharp\Lap_trinh_dotnet\BaiTap\OOP\obj\Debug\OOP.pdb

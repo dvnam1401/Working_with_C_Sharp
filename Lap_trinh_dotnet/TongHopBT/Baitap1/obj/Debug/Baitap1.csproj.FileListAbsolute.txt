@@ -1,0 +1,7 @@
+D:\Workspace\Working_with_C_Sharp\Lap_trinh_dotnet\TongHopBT\Baitap1\bin\Debug\Baitap1.exe.config
+D:\Workspace\Working_with_C_Sharp\Lap_trinh_dotnet\TongHopBT\Baitap1\bin\Debug\Baitap1.exe
+D:\Workspace\Working_with_C_Sharp\Lap_trinh_dotnet\TongHopBT\Baitap1\bin\Debug\Baitap1.pdb
+D:\Workspace\Working_with_C_Sharp\Lap_trinh_dotnet\TongHopBT\Baitap1\obj\Debug\Baitap1.csproj.AssemblyReference.cache
+D:\Workspace\Working_with_C_Sharp\Lap_trinh_dotnet\TongHopBT\Baitap1\obj\Debug\Baitap1.csproj.CoreCompileInputs.cache
+D:\Workspace\Working_with_C_Sharp\Lap_trinh_dotnet\TongHopBT\Baitap1\obj\Debug\Baitap1.exe
+D:\Workspace\Working_with_C_Sharp\Lap_trinh_dotnet\TongHopBT\Baitap1\obj\Debug\Baitap1.pdb

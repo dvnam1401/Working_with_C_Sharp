@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\Working_with_C_Sharp\\Lap_trinh_dotnet\\BaiTap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8969D39C-4FDB-4DD7-8B55-78018F18E201}|OOP\\OOP_QLXe.csproj|d:\\workspace\\working_with_c_sharp\\lap_trinh_dotnet\\baitap\\oop\\service\\xeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8969D39C-4FDB-4DD7-8B55-78018F18E201}|OOP\\OOP_QLXe.csproj|solutionrelative:oop\\service\\xeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8969D39C-4FDB-4DD7-8B55-78018F18E201}|OOP\\OOP_QLXe.csproj|d:\\workspace\\working_with_c_sharp\\lap_trinh_dotnet\\baitap\\oop\\models\\hopdongchothue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8969D39C-4FDB-4DD7-8B55-78018F18E201}|OOP\\OOP_QLXe.csproj|solutionrelative:oop\\models\\hopdongchothue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8969D39C-4FDB-4DD7-8B55-78018F18E201}|OOP\\OOP_QLXe.csproj|d:\\workspace\\working_with_c_sharp\\lap_trinh_dotnet\\baitap\\oop\\service\\sohopdongservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8969D39C-4FDB-4DD7-8B55-78018F18E201}|OOP\\OOP_QLXe.csproj|solutionrelative:oop\\service\\sohopdongservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8969D39C-4FDB-4DD7-8B55-78018F18E201}|OOP\\OOP_QLXe.csproj|d:\\workspace\\working_with_c_sharp\\lap_trinh_dotnet\\baitap\\oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8969D39C-4FDB-4DD7-8B55-78018F18E201}|OOP\\OOP_QLXe.csproj|solutionrelative:oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8969D39C-4FDB-4DD7-8B55-78018F18E201}|OOP\\OOP_QLXe.csproj|d:\\workspace\\working_with_c_sharp\\lap_trinh_dotnet\\baitap\\oop\\controller\\xecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8969D39C-4FDB-4DD7-8B55-78018F18E201}|OOP\\OOP_QLXe.csproj|solutionrelative:oop\\controller\\xecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8969D39C-4FDB-4DD7-8B55-78018F18E201}|OOP\\OOP_QLXe.csproj|d:\\workspace\\working_with_c_sharp\\lap_trinh_dotnet\\baitap\\oop\\controller\\sohopdongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8969D39C-4FDB-4DD7-8B55-78018F18E201}|OOP\\OOP_QLXe.csproj|solutionrelative:oop\\controller\\sohopdongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073F9F17-24AA-4BC9-8FE0-65C2547EEAB1}|QLXECUAHANG\\QLXECUAHANG.csproj|d:\\workspace\\working_with_c_sharp\\lap_trinh_dotnet\\baitap\\qlxecuahang\\xe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073F9F17-24AA-4BC9-8FE0-65C2547EEAB1}|QLXECUAHANG\\QLXECUAHANG.csproj|solutionrelative:qlxecuahang\\xe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SoHopDongService.cs",
+              "DocumentMoniker": "D:\\Workspace\\Working_with_C_Sharp\\Lap_trinh_dotnet\\BaiTap\\OOP\\service\\SoHopDongService.cs",
+              "RelativeDocumentMoniker": "OOP\\service\\SoHopDongService.cs",
+              "ToolTip": "D:\\Workspace\\Working_with_C_Sharp\\Lap_trinh_dotnet\\BaiTap\\OOP\\service\\SoHopDongService.cs",
+              "RelativeToolTip": "OOP\\service\\SoHopDongService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T03:28:26.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XeService.cs",
+              "DocumentMoniker": "D:\\Workspace\\Working_with_C_Sharp\\Lap_trinh_dotnet\\BaiTap\\OOP\\service\\XeService.cs",
+              "RelativeDocumentMoniker": "OOP\\service\\XeService.cs",
+              "ToolTip": "D:\\Workspace\\Working_with_C_Sharp\\Lap_trinh_dotnet\\BaiTap\\OOP\\service\\XeService.cs",
+              "RelativeToolTip": "OOP\\service\\XeService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T02:21:40.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "XeController.cs",
+              "DocumentMoniker": "D:\\Workspace\\Working_with_C_Sharp\\Lap_trinh_dotnet\\BaiTap\\OOP\\controller\\XeController.cs",
+              "RelativeDocumentMoniker": "OOP\\controller\\XeController.cs",
+              "ToolTip": "D:\\Workspace\\Working_with_C_Sharp\\Lap_trinh_dotnet\\BaiTap\\OOP\\controller\\XeController.cs",
+              "RelativeToolTip": "OOP\\controller\\XeController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwCIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T02:21:36.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\Working_with_C_Sharp\\Lap_trinh_dotnet\\BaiTap\\OOP\\Program.cs",
+              "RelativeDocumentMoniker": "OOP\\Program.cs",
+              "ToolTip": "D:\\Workspace\\Working_with_C_Sharp\\Lap_trinh_dotnet\\BaiTap\\OOP\\Program.cs",
+              "RelativeToolTip": "OOP\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T02:19:05.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HopDongChoThue.cs",
+              "DocumentMoniker": "D:\\Workspace\\Working_with_C_Sharp\\Lap_trinh_dotnet\\BaiTap\\OOP\\models\\HopDongChoThue.cs",
+              "RelativeDocumentMoniker": "OOP\\models\\HopDongChoThue.cs",
+              "ToolTip": "D:\\Workspace\\Working_with_C_Sharp\\Lap_trinh_dotnet\\BaiTap\\OOP\\models\\HopDongChoThue.cs",
+              "RelativeToolTip": "OOP\\models\\HopDongChoThue.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA2wCQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T18:09:52.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SoHopDongController.cs",
+              "DocumentMoniker": "D:\\Workspace\\Working_with_C_Sharp\\Lap_trinh_dotnet\\BaiTap\\OOP\\controller\\SoHopDongController.cs",
+              "RelativeDocumentMoniker": "OOP\\controller\\SoHopDongController.cs",
+              "ToolTip": "D:\\Workspace\\Working_with_C_Sharp\\Lap_trinh_dotnet\\BaiTap\\OOP\\controller\\SoHopDongController.cs",
+              "RelativeToolTip": "OOP\\controller\\SoHopDongController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T18:24:13.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Xe.cs",
+              "DocumentMoniker": "D:\\Workspace\\Working_with_C_Sharp\\Lap_trinh_dotnet\\BaiTap\\QLXECUAHANG\\Xe.cs",
+              "RelativeDocumentMoniker": "QLXECUAHANG\\Xe.cs",
+              "ToolTip": "D:\\Workspace\\Working_with_C_Sharp\\Lap_trinh_dotnet\\BaiTap\\QLXECUAHANG\\Xe.cs",
+              "RelativeToolTip": "QLXECUAHANG\\Xe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T02:52:51.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1152,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 225,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\Workspace\Working_with_C_Sharp\Lap_trinh_dotnet\BAITAPCHUONG3\QLSinhVien\bin\Debug\QLSinhVien.exe.config
+D:\Workspace\Working_with_C_Sharp\Lap_trinh_dotnet\BAITAPCHUONG3\QLSinhVien\bin\Debug\QLSinhVien.exe
+D:\Workspace\Working_with_C_Sharp\Lap_trinh_dotnet\BAITAPCHUONG3\QLSinhVien\bin\Debug\QLSinhVien.pdb
+D:\Workspace\Working_with_C_Sharp\Lap_trinh_dotnet\BAITAPCHUONG3\QLSinhVien\obj\Debug\QLSinhVien.csproj.AssemblyReference.cache
+D:\Workspace\Working_with_C_Sharp\Lap_trinh_dotnet\BAITAPCHUONG3\QLSinhVien\obj\Debug\QLSinhVien.csproj.CoreCompileInputs.cache
+D:\Workspace\Working_with_C_Sharp\Lap_trinh_dotnet\BAITAPCHUONG3\QLSinhVien\obj\Debug\QLSinhVien.exe
+D:\Workspace\Working_with_C_Sharp\Lap_trinh_dotnet\BAITAPCHUONG3\QLSinhVien\obj\Debug\QLSinhVien.pdb

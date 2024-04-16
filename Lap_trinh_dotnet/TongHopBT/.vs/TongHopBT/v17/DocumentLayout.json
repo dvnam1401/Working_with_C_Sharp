@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\Working_with_C_Sharp\\Lap_trinh_dotnet\\TongHopBT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7F72C73-21F0-42BA-B995-5621EDBB0915}|BaiTap4\\BaiTap4.csproj|d:\\workspace\\working_with_c_sharp\\lap_trinh_dotnet\\tonghopbt\\baitap4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7F72C73-21F0-42BA-B995-5621EDBB0915}|BaiTap4\\BaiTap4.csproj|solutionrelative:baitap4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E5F6CA-DE1F-47B5-BCF4-8FE903DDE6E7}|Baitap1\\Baitap1.csproj|d:\\workspace\\working_with_c_sharp\\lap_trinh_dotnet\\tonghopbt\\baitap1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E5F6CA-DE1F-47B5-BCF4-8FE903DDE6E7}|Baitap1\\Baitap1.csproj|solutionrelative:baitap1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D23E330-1959-4024-9E9E-3910A66A52A4}|BaiTap3\\BaiTap3.csproj|d:\\workspace\\working_with_c_sharp\\lap_trinh_dotnet\\tonghopbt\\baitap3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D23E330-1959-4024-9E9E-3910A66A52A4}|BaiTap3\\BaiTap3.csproj|solutionrelative:baitap3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9204FA8C-FE35-4B88-AB07-98FE850C8EF2}|BaiTap2\\BaiTap2.csproj|d:\\workspace\\working_with_c_sharp\\lap_trinh_dotnet\\tonghopbt\\baitap2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9204FA8C-FE35-4B88-AB07-98FE850C8EF2}|BaiTap2\\BaiTap2.csproj|solutionrelative:baitap2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 280,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\Working_with_C_Sharp\\Lap_trinh_dotnet\\TongHopBT\\BaiTap4\\Program.cs",
+              "RelativeDocumentMoniker": "BaiTap4\\Program.cs",
+              "ToolTip": "D:\\Workspace\\Working_with_C_Sharp\\Lap_trinh_dotnet\\TongHopBT\\BaiTap4\\Program.cs",
+              "RelativeToolTip": "BaiTap4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T09:28:50.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\Working_with_C_Sharp\\Lap_trinh_dotnet\\TongHopBT\\BaiTap3\\Program.cs",
+              "RelativeDocumentMoniker": "BaiTap3\\Program.cs",
+              "ToolTip": "D:\\Workspace\\Working_with_C_Sharp\\Lap_trinh_dotnet\\TongHopBT\\BaiTap3\\Program.cs",
+              "RelativeToolTip": "BaiTap3\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T09:24:10.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\Working_with_C_Sharp\\Lap_trinh_dotnet\\TongHopBT\\BaiTap2\\Program.cs",
+              "RelativeDocumentMoniker": "BaiTap2\\Program.cs",
+              "ToolTip": "D:\\Workspace\\Working_with_C_Sharp\\Lap_trinh_dotnet\\TongHopBT\\BaiTap2\\Program.cs",
+              "RelativeToolTip": "BaiTap2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T09:15:58.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\Working_with_C_Sharp\\Lap_trinh_dotnet\\TongHopBT\\Baitap1\\Program.cs",
+              "RelativeDocumentMoniker": "Baitap1\\Program.cs",
+              "ToolTip": "D:\\Workspace\\Working_with_C_Sharp\\Lap_trinh_dotnet\\TongHopBT\\Baitap1\\Program.cs",
+              "RelativeToolTip": "Baitap1\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAwwAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:29:28.843Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 682,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 25,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

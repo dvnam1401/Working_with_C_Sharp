@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_QLXe", "OOP\OOP_QLXe.csproj", "{8969D39C-4FDB-4DD7-8B55-78018F18E201}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLXECUAHANG", "QLXECUAHANG\QLXECUAHANG.csproj", "{073F9F17-24AA-4BC9-8FE0-65C2547EEAB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8969D39C-4FDB-4DD7-8B55-78018F18E201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8969D39C-4FDB-4DD7-8B55-78018F18E201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8969D39C-4FDB-4DD7-8B55-78018F18E201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8969D39C-4FDB-4DD7-8B55-78018F18E201}.Release|Any CPU.Build.0 = Release|Any CPU
+		{073F9F17-24AA-4BC9-8FE0-65C2547EEAB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{073F9F17-24AA-4BC9-8FE0-65C2547EEAB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{073F9F17-24AA-4BC9-8FE0-65C2547EEAB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{073F9F17-24AA-4BC9-8FE0-65C2547EEAB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {001F7AE1-C3CC-45E6-8854-6ECC3CD63593}
+	EndGlobalSection
+EndGlobal
